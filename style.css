@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
 
-* {
-  box-sizing: border-box;
-}
-
 :root {
   --cream: #F5EBDD;
   --turquoise: #168C8C;
   --dark-turquoise: #0E5F61;
   --text: #174C4C;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 html {
@@ -17,8 +17,8 @@ html {
 
 body {
   margin: 0;
-  background: var(--cream);
-  color: var(--text);
+  background: #F5EBDD;
+  color: #174C4C;
   font-family: 'DM Sans', Arial, sans-serif;
 }
 
