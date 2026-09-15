@@ -1,5 +1,5 @@
 *{box-sizing:border-box}
-:root{--cream:#f5eddf;--turquoise:#39b9b0;--dark:#173f3d}
+:root{--cream: #F5EBDD;--turquoise: #168C8C;--dark-turquoise: #0E5F61}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--dark);font-family:Arial,sans-serif}
 header{min-height:70vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:40px}
